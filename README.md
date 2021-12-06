@@ -1,20 +1,15 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Aaron</h1>
+<br>
 
-<!--
-**Aaronnon/Aaronnon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About Me
 
-Here are some ideas to get you started:
+- 😄 Pronouns: he/him
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 I use daily `.js`, `.html`, `.css`, `React.js`, `.Vue.js`
+
+- 🌐 I Love to Build Web Applications
+
+- 🌱 Learning all about **Open Source**
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aaronnon&show_icons=true&theme=dracula)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aaronnon&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
