@@ -9,7 +9,5 @@
 
 - 🌐 I Love to Build Web Applications
 
-- 🌱 Learning all about **Open Source**
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aaronnon&show_icons=true&theme=dracula)
 
