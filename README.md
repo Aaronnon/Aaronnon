@@ -6,7 +6,7 @@
 
 - 😄 Pronouns: he/him
 
-- 💻 I use daily `.js`, `.html`, `.css`, `React.js`, `.Vue.js`
+- 💻 I use daily `.js`, `.html`, `.css`, `React.js`, `Vue.js`
 
 - 🌐 I Love to Build Web Applications
 
